@@ -1,5 +1,5 @@
 eswto es un cambioooo
-
+a ver si la traigoooooo
 /****** Object:  LinkedServer [GANDM_AZURE]    Script Date: 26/01/2021 10:30:05 ******/
 EXEC master.dbo.sp_addlinkedserver @server = N'GANDM_AZURE', @srvproduct=N'', @provider=N'SQLNCLI', @datasrc=N'gandmdbs.database.windows.net', @catalog=N'gandm_afca'
  /* For security reasons the linked server remote logins password is changed with ######## */
