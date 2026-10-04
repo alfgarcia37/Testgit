@@ -1,4 +1,5 @@
 USE [master]
+-- tercerooooo
 GO
 
 /****** Object:  LinkedServer [GANDM_AZURE]    Script Date: 26/01/2021 10:30:05 ******/
